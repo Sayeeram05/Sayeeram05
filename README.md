@@ -23,4 +23,4 @@
 
 <p align="center" ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Sayeeram05&" alt="sayeeram" /></p>
 
-&emsp;<p align="center" ><img  width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sayeeram05&show_icons=true&locale=en&layout=compact" alt="sayeeram" /></p>
+<p align="center" ><img  width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sayeeram05&show_icons=true&locale=en&layout=compact" alt="sayeeram" /></p>
