@@ -27,7 +27,7 @@
 
 
 <!--Intro start-->
- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Java,Python,C,C++,html,css,javascript,react**
 
