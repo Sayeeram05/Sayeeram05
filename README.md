@@ -25,7 +25,7 @@
 <!--Intro start-->
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Java,Python,C,C++,html,css,javascript,react**
+- 💬 Ask me about **Java,Python,C,C++,html,css,javascript**
 
 - 📫 How to reach me **sr6172@srmist.edu.in**
 
