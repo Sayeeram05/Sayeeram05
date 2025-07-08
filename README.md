@@ -1,94 +1,82 @@
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Profile Header -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
 
 ![MasterHead](https://img.freepik.com/free-vector/web-development-concept-with-programmer-ar_107791-17049.jpg?w=1000&t=st=1707198539~exp=1707199139~hmac=07c6adf780e86a6c65b14685d0f1d6d93a8a695510f975f98464ecbe7524a7f5)
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Sayeeram</h1></summary>
-  </ul>
-</div>
 
+<h1 align="center">Hi 👋, I'm Sayeeram</h1>
+<h3 align="center">Aspiring Full Stack Developer | Java & Python Enthusiast</h3>
 
+---
 
+### 💡 About Me
 
+Hi, I'm **Sayeeram R** — a passionate and curious Computer Science undergrad at **SRM IST, Kattankulathur** (Batch of 2026). I enjoy turning ideas into real-world software projects.
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
+I'm skilled in **Java**, **Python**, and **Data Structures**, and love building applications using **Java Swing**, **Flask**, and backend tools. I thrive in solving problems, debugging complex issues, and writing clean, maintainable code.
 
+I believe **"Confusion is part of programming"**, and I see every challenge as an opportunity to learn. I also explore new tools, contribute to my GitHub, and grow my skills in **full-stack development**, **clean code practices**, and **agile methodologies**.
 
-<!--Intro start-->
-- 🌱 I’m currently learning **Machine Learning**
+Outside coding, I enjoy experimenting with new tech, working on personal projects, and collaborating with peers. I’m always open to new opportunities, collaborations, and learning experiences!
 
-- 💬 Ask me about **Java and Python**
+---
 
-- 📫 How to reach me **sr6172@srmist.edu.in**
+### 🎓 Education
+- **SRM Institute of Science and Technology, Kattankulathur**  
+  B.Tech – Computer Science and Engineering  
+  📅 2022 – 2026  
+  📈 **CGPA**: 8.52 / 10
 
-<!--Intro end-->
+---
 
+### 💻 Skills
 
+#### Programming Languages
+`Java` • `Python` • `HTML` • `CSS` • `JavaScript`
 
-<!--- stats & Trophy (start) -->
+#### Frameworks & Libraries
+`Java Swing` • `Tkinter` • `Flask` • `Numpy` • `Pandas`
+
+#### Tools & Technologies
+`Git` • `GitHub` • `VS Code` • `Jupyter` • `Anaconda` • `MySQL` • `MySQL Connector`
+
+#### Core Subjects
+`Data Structures` • `Algorithms` • `Object-Oriented Programming (OOPS)`
+
+---
+
+### 📫 How to Reach Me
+📧 Email: sr6172@srmist.edu.in  
+📞 Phone: +91 74180 22289  
+🔗 LinkedIn: *Add your profile URL here*  
+🔗 Portfolio: *Optional – Add link if available*
+
+---
+
+### 📊 GitHub Stats
 <p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Sayeeram05&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sayeeram05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</td>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sayeeram05&theme=dark&show_icons=true&count_private=true" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sayeeram05&layout=compact&theme=dark" />
+</p>
 
-<td width="50%" align="center">
+---
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sayeeram05&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Sayeeram05&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
+### 🧰 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cpp,css,discord,github,html,git,js,nodejs,py,react,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,py,cpp,html,css,js,react,nodejs,flask,git,github,vscode,mysql&perline=14" />
   </a>
 </p>
 
+---
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
+### 🤝 Connect With Me
+<p align="center">
+  <a href="mailto:sr6172@srmist.edu.in"><img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sayeeram05"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Sayeeram05"><img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
+---
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
