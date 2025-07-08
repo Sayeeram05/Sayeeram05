@@ -10,7 +10,7 @@
 
 ### 💡 About Me
 
-Hi, I'm **Sayeeram R** — a passionate and curious Computer Science undergrad at **SRM IST, Kattankulathur** (Batch of 2026). I enjoy turning ideas into real-world software projects.
+Hi, I'm **Sayeeram R** a passionate and curious Computer Science undergrad at **SRM IST, Kattankulathur** (Batch of 2026). I enjoy turning ideas into real-world software projects.
 
 I'm skilled in **Java**, **Python**, and **Data Structures**, and love building applications using **Java Swing**, **Flask**, and backend tools. I thrive in solving problems, debugging complex issues, and writing clean, maintainable code.
 
